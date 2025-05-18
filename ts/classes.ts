@@ -127,3 +127,4 @@ const circle = new Circle(5);
 console.log(circle.radius); 
 circle.redius = 10;
 console.log(circle.radius); 
+
