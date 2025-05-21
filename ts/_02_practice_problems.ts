@@ -47,6 +47,7 @@ myAccount.witdrow(2600);
 
 
 class Employee {
+    readonly username: string = 'hi12';
     constructor(public name: string , public salary: number){}
 
     getDetails():string{
